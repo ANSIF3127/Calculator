@@ -1,0 +1,9 @@
+.calculator {
+    width: 100%;
+    max-width: 350px;
+    background-color: var(--calculator-bg);
+    border-radius: 40px;
+    box-shadow: var(--shadow-lg);
+    overflow: hidden;
+    padding-bottom: 20px;
+}
